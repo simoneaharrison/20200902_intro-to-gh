@@ -6,9 +6,8 @@ Today's activity consists of:
 
 - Cloning a repo
 - Checking out a new branch
-- Making some changes to a file
+- Making some changes to a file within that branch
 - Pushing those changes to github
-- Deleting the new branch
 
 List of git commands used in this activity:
 
